@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Thank you page viewer by JEVNET 1.0\n"
+"Report-Msgid-Bugs-To: info@jevnet.es\n"
+"POT-Creation-Date: 2020-08-18 23:50+0200\n"
+"PO-Revision-Date: 2020-08-18 23:50+0200\n"
+"Last-Translator: \n"
+"Language-Team: Sergi <sergi@jevnet.es>\n"
+"Language: ca_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.3.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../jn-wc-thankyou-view.php:29
+msgid "Thank you page:"
+msgstr "Pàgina de gràcies:"
+
+#: ../jn-wc-thankyou-view.php:29
+msgid "View Thank you page"
+msgstr "Veure la pàgina de gràcies"
+
+#: ../jn-wc-thankyou-view.php:39
+msgid ""
+"Thank you page viewer for WooCommerce is active but WooCommerce is not "
+"active or not installed. There is no problem and you can keep it active if "
+"you love it. We know love has no sense."
+msgstr ""
+"Thank you page viewer for WooCommerce està actiu però WooCommerce no ho està "
+"o no està instal·lat. No hi ha problema i el pots mantenir actiu si te "
+"l'estimes. Sabem que l'amor tampoc no té sentit."
